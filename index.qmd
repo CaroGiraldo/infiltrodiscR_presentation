@@ -1,0 +1,38 @@
+---
+title: "InfiltrodiscR"
+author: "Carolina Giraldo"
+title-slide-attributes:
+    data-background-image: "img/mint-tea.jpeg"
+    data-background-size: contain
+    data-background-opacity: "0.5"
+format:
+  revealjs: 
+    slide-number: true
+    theme: default
+from: markdown+emoji
+output-dir: docs
+execute:
+  echo: true
+---
+
+## Hello
+
+::: incremental
+\- Sara Acevedo, Ph.D. Engineering Sciences
+
+\- Carolina Giraldo, Ph.D. (c) Engineering Sciences
+:::
+
+## What is a Minidisk?
+
+Is an instrument used to understand infiltration in soils, hydrophobicity, irrigation system design, erosion and burn severity.
+
+![](images/mini.png)
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
