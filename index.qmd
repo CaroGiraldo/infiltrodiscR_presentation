@@ -27,7 +27,7 @@ execute:
 
 Is an instrument used to understand infiltration in soils, hydrophobicity, irrigation system design, erosion and burn severity.
 
-![](images/mini.png)
+![](images/mini.png){fig-align="center"}
 
 ## Code
 
