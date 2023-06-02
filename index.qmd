@@ -2,9 +2,9 @@
 title: "InfiltrodiscR" 
 author: "Carolina Giraldo"
 title-slide-attributes:
-    data-background-image: "bg.jpg"
+    data-background-image: "mini.png"
     data-background-size: contain
-    data-background-opacity: "0.7"
+    data-background-opacity: "0.5"
 format:
   revealjs: 
     slide-number: true
@@ -29,8 +29,14 @@ Is an instrument used to understand infiltration in soils, hydrophobicity, irrig
 
 ![](images/mini.png){fig-align="center"}
 
-# [Minisdisk and Data analysis]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d"}
+# [Minisdisk and Data analysis: the main problem]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
 
 A common way is to use an Excel macro, but for handling a large number of samples this can be complex.
 
 ![](images/macro.png){fig-align="center"}
+
+# [Minisdisk and Data analysis: a solution]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
+
+We want to provide functions for the modeling of data derived from the Minidisk Infiltrometer device using R.
+
+![](images/gh.png){fig-align="center"}
