@@ -1,11 +1,11 @@
 ---
 title: "InfiltrodiscR" 
-author: "Carolina Giraldo"
+author: "Sara Acevedo / Carolina Giraldo"
 title-slide-attributes:
-    data-background-image: "mini.png"
+    data-background-color: "#55cc9d"
     data-background-size: contain
-    data-background-opacity: "0.5"
-format:
+    data-background-opacity: "0.8"
+    format:
   revealjs: 
     slide-number: true
     theme: default
