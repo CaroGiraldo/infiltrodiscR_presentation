@@ -68,3 +68,7 @@ Is comming... - Shinny app in R
 -   International conference
 
 ![](images/sssa.png){fig-align="center" width="428"}
+
+# Thank you! :heart: {background-color="#55cc9d" style="font-size: 80%;"}
+
+![](images/md2.jpg){fig-align="center" width="234"}
