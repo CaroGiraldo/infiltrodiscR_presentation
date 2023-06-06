@@ -46,3 +46,14 @@ A product (R package) that provides functions and support for minidisk use, allo
 # [How did we do it?]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
 
 ![](images/flow.png){fig-align="center"}
+
+# [The final result]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
+
+![](images/github.png){fig-align="center"}
+
+
+# [How did we involve others?]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
+
+First we started by other lab mates. Then, to involve other scientist to our project, we used the social media of the lab :)
+
+![](images/social.png){fig-align="center"}
