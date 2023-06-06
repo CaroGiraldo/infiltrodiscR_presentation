@@ -2,17 +2,16 @@
 title: "InfiltrodiscR" 
 author: "Sara Acevedo / Carolina Giraldo"
 title-slide-attributes:
+    data-background-image: "/images/md.jpg"
     data-background-color: "#55cc9d"
     data-background-size: contain
-    data-background-opacity: "0.8"
-    format:
+    data-background-opacity: "0.3"
+format:
   revealjs: 
     slide-number: true
     theme: default
 from: markdown+emoji
 output-dir: docs
-execute:
-  echo: true
 ---
 
 # [Hello!]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d"}
@@ -35,8 +34,15 @@ A common way is to use an Excel macro, but for handling a large number of sample
 
 ![](images/macro.png){fig-align="center"}
 
-# [Minisdisk and Data analysis: a solution]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
+# [Minisdisk and Data analysis: Our project]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
 
-We want to provide functions for the modeling of data derived from the Minidisk Infiltrometer device using R.
+A product (R package) that provides functions and support for minidisk use, allowing automatization in the analysis.
 
-![](images/gh.png){fig-align="center"}
+**Target audience:**
+
+-   Soil Scientists
+-   Soil Educators
+
+# [How did we do it?]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
+
+![](images/flow.png){fig-align="center"}
