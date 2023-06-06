@@ -49,11 +49,22 @@ A product (R package) that provides functions and support for minidisk use, allo
 
 # [The final result]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
 
-![](images/github.png){fig-align="center"}
+Our R package with DOI using Zenodo [infiltrodiscR](https://github.com/biofisicasuelos/infiltrodiscR)
 
+![](images/github.png){fig-align="center"}
 
 # [How did we involve others?]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
 
 First we started by other lab mates. Then, to involve other scientist to our project, we used the social media of the lab :)
 
 ![](images/social.png){fig-align="center"}
+
+# [What´s next?]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
+
+Is comming... - Shinny app in R
+
+![](images/shinny.png){fig-align="center" width="280"}
+
+-   International conference
+
+![](images/sssa.png){fig-align="center" width="428"}
