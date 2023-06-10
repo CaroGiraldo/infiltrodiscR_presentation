@@ -23,13 +23,16 @@ from: markdown+emoji
 
 # [What is a Minidisk]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d"}
 
-Is an instrument used to understand infiltration in soils, hydrophobicity, irrigation system design, erosion and burn severity.
+It is an instrument used to understand infiltration in soils, hydrophobicity, irrigation system design, erosion and burn severity.
 
 ![](images/mini.png){fig-align="center"}
 
 # [Minisdisk and Data analysis: the main problem]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
 
-A common way is to use an Excel macro, but for handling a large number of samples this can be complex.
+**The problem**
+
+-   Data analysis by using Excel macros -\> Useful with small amounts of data
+-   Large amounts of data -\> mistakes :(
 
 ![](images/macro.png){fig-align="center"}
 
@@ -37,8 +40,9 @@ A common way is to use an Excel macro, but for handling a large number of sample
 
 A product (R package) that provides functions and support for minidisk use, allowing automatization in the analysis.
 
-**Target audience:**
+![](images/ups.jpeg){fig-align="center" width="428"}
 
+**Target audience:** 
 -   Soil Scientists
 -   Soil Educators
 
