@@ -27,7 +27,7 @@ It is an instrument used to understand infiltration in soils, hydrophobicity, ir
 
 ![](images/mini.png){fig-align="center"}
 
-# [Minisdisk and Data analysis: the main problem]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
+# [Minisdisk and Data analysis]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
 
 **The problem**
 
@@ -42,9 +42,7 @@ A product (R package) that provides functions and support for minidisk use, allo
 
 ![](images/ups.jpeg){fig-align="center" width="428"}
 
-**Target audience:** 
--   Soil Scientists
--   Soil Educators
+**Target audience:** - Soil Scientists - Soil Educators
 
 # [How did we do it?]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
 
