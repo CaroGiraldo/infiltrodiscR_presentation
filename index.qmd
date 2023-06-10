@@ -34,13 +34,13 @@ It is an instrument used to understand infiltration in soils, hydrophobicity, ir
 **The problem**
 
 -   Data analysis by using Excel macros -\> Useful with small amounts of data
--   Large amounts of data -\> mistakes :(
+-   Large amounts of data -\> mistakes :slightly_frowning_face:
 
 ![](images/macro.png){fig-align="center"}
 
 # [Minisdisk and Data analysis: Our project]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
 
-A product (R package) that provides functions and support for minidisk use, allowing automatization in the analysis.
+A product (R package) that provides functions and support for minidisk use. It allows automation in the analysis :wink:
 
 ![](images/ups.jpeg){fig-align="center" width="428"}
 
