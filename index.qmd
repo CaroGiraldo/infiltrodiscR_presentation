@@ -19,6 +19,8 @@ from: markdown+emoji
 \- Sara Acevedo, Ph.D. Engineering Sciences
 
 \- Carolina Giraldo, Ph.D. (c) Engineering Sciences
+
+![](images/syc.png){fig-align="center"}
 :::
 
 # [What is a Minidisk]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d"}
