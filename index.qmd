@@ -13,15 +13,16 @@ format:
 from: markdown+emoji
 ---
 
-# [Hello!]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d"}
+# [Hello!]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 90%;"}
 
-::: incremental
-\- Sara Acevedo, Ph.D. Engineering Sciences
+-   **Sara Acevedo**, Ph.D. Engineering Sciences
+-   **Carolina Giraldo**, Ph.D. (c) Engineering Sciences
 
-\- Carolina Giraldo, Ph.D. (c) Engineering Sciences
+![](images/syc.png){fig-align="center" width="600"}
 
-![](images/syc.png){fig-align="center"}
-:::
+[seaceved\@uc.cl](seaceved@uc.cl)-Universidad Catolica de Chile/DIHA
+
+[carolinav.giraldo\@uc.cl](carolinav.giraldo@uc.cl)-Universidad Catolica de Chile/DIHA
 
 # [What is a Minidisk]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d"}
 
@@ -64,11 +65,11 @@ First we started by other lab mates. Then, to involve other scientist to our pro
 
 # [What´s next?]{style="color: white;float:center;text-align:left;"} {background-color="#55cc9d" style="font-size: 80%;"}
 
-It is coming... - Shinny app in R
+-   **Shiny app in R**
 
 ![](images/shinny.png){fig-align="center" width="280"}
 
--   International conference (SSSA)
+-   **International Conference (SSSA)**
 
 ![](images/sssa.png){fig-align="center" width="428"}
 
